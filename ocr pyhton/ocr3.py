@@ -1,7 +1,7 @@
 import requests
 
 # Chemin de l'image à traiter
-image_path = "zaineb ui.jpeg"
+image_path = "zohir.JPG"
 api_key = "K86289643888957"
 
 # URL de l'API OCR.space
